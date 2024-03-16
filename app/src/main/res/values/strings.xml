@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="painting1_title">Sistine Chapel Ceiling Fresco</string>
+    <string name="painting1_artist">Michelangelo</string>
+
+    <string name="painting2_title">The Starry Night</string>
+    <string name="painting2_artist">Vincent van Gogh</string>
+
+    <string name="painting3_title">Mona Lisa</string>
+    <string name="painting3_artist">Leonardo da Vinci</string>
+
+    <string name="painting4_title">The Last Supper</string>
+    <string name="painting4_artist">Leonardo da Vinci</string>
+
+    <string name="painting5_title">The Persistence of Memory</string>
+    <string name="painting5_artist">Salvador Dalí</string>
+</resources>
